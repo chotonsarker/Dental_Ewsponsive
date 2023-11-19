@@ -1,0 +1,725 @@
+@media(max-width:1200px){
+    .nav-link {
+        font-size: 15px;
+        margin-right: 35px;
+    }
+    .dantel {
+        width: 51%;
+    }
+    .btn_appart {
+        padding: 16px 40px;
+        font-size: 15px;
+    }
+    .zero {
+        min-height: 82vh;
+    }
+    .logo {
+        width: 60%;
+    }
+    .docters {
+        padding: 45px 0 0px;
+    }
+    .doct img {
+        width: 45%;
+    }
+    .wellcome h3 {
+        font-size: 30px;
+    }
+    .wellcome P{
+        font-size: 15px;
+    }
+    .docters_content h4{
+        font-size: 20px;
+    }
+    .docters_content p{
+        font-size: 15px;
+    }
+    .service_content {
+        margin: 30px 10px 0px;
+        padding: 24px 35px;
+    }
+    .than h4 {
+        margin-left: 10px;
+        font-size: 17px;
+    }
+    .card {
+        margin: 40px 0px;
+    }
+    .pricing_content h2 {
+        font-size: 26px;
+    }
+    .pricing_content p {
+        font-size: 15px;
+    }
+    .dolor span {
+        font-size: 40px;
+    }
+    .happy {
+        margin-top: 0px;
+    }
+    .icon_list ul li {
+        height: 30px;
+        width: 30px;
+    }
+    .icon_list ul li a {
+        font-size: 18px;
+    }
+    .meet h2 {
+        font-size: 30px;
+        
+    }
+    .person_name h3 {
+        font-size: 20px;
+    }
+    .happy h1{
+        font-size: 30px;
+    }
+    .footer_content p {
+        font-size: 14px;
+    }
+    .footer_icon i {
+        margin-right: 17px;
+        font-size: 26px;
+        margin-top: 16px;
+    }
+    .content a{
+        font-size: 14px;
+    }
+    .content_part p {
+        font-size: 13px;
+        margin-top: -7px;
+        margin-bottom: -4px;
+    }
+    .content_part span {
+        font-size: 13px;
+    }
+    .newslatter_content p{
+        font-size: 14px;
+    }
+    .follow ul li {
+        height: 30px;
+        width: 30px;
+        margin-left: 8px;
+    }
+    .follow ul li a {
+        font-size: 20px;
+    }
+}
+@media(max-width:991px){
+    .nav-item{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin: 10px 0;
+        width: 50%;
+    }
+    .navbar-brand{
+        display: contents;
+        
+    }
+    .image-logo{
+        width: 35%;
+    }
+    .navbar-nav{
+
+        display: flex;
+
+        flex-wrap: wrap;
+
+        flex-direction: row;
+
+        margin-top: 20px;
+
+    }
+    
+    .container-fluid{
+        padding: 10px 12px !important;
+    }
+    .desktop_topheader{
+        display: none;
+    }
+    .mobile_header{
+        display: inherit;
+    }
+    .header_content{
+        margin: 10px 25px 10px 10px;
+
+    }
+    .core {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .md_hide{
+        display: none;
+    }
+    .menu h5 {
+        color: #fff9f9;
+    }
+    .menu a {
+        color: #3e75d6;
+    }
+    .btn_appart {
+        padding: 10px 20px;
+        font-size: 17px;
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%);
+        border: 1px solid;
+    }
+    .appartment i {
+        font-size: 14px;
+    }
+    .banner_content h1 {
+        font-size: 26px;
+        margin-top: 10px;
+    }
+    .banner_content p {
+        font-size: 17px;
+        margin: 15px 0 24px;
+    }
+    .zero {
+        min-height: 60vh;
+    }
+    .banner_section{
+        min-height: 60vh;
+    }
+    .wellcome h3 {
+        font-size: 23px;
+    }
+
+    .doct{
+        display: none;
+    }
+    .plus{
+        width: 100%;
+    }
+    .wellcome {
+        text-align: center;
+    }
+    .docters_content {
+        margin-bottom: 20px;
+    }
+    .docters_content h4 {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+    .docters_content p {
+        font-size: 16px;
+    }
+    .doctors_list {
+        padding: 35px 0;
+    }
+    .meet h2 {
+        margin-bottom: 5px;
+        font-size: 27px;
+    }
+    .meet p {
+        margin-top: 13px;
+        font-size: 14px;
+    }
+    .person_name h3 {
+        font-size: 18px;
+    }
+    .person_name p {
+        font-size: 13px;
+    }
+    .service_section {
+        padding: 30px 0;
+    }
+    .our h1 {
+        font-size: 27px;
+        margin: 0 0 5px;
+    }
+    .our p {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+    .service_content {
+        margin: 20px 0px 0px;
+        padding: 14px 12px;
+    }
+    .teeth {
+        margin: 10px 0 0;
+    }
+    .teeth p {
+        font-size: 13px;
+        margin: 5px 0;
+    }
+    .pricing_section {
+        padding: 40px 0;
+    }
+    .card {
+        margin: 25px 0;
+    }
+    .pricing_content h2 {
+        font-size: 22px;
+    }
+    .dolor span {
+        font-size: 35px;
+    }
+    .fizza p {
+        font-size: 13px;
+    }
+    .fizza {
+        margin: 20px 0 20px;
+    }
+    .btn_sign {
+        margin-top: 25px;
+        font-size: 14px;
+        padding: 8px 18px;
+    }
+    .client_section {
+        padding: 38px 0;
+    }
+    .happy h1 {
+        font-size: 28px;
+        margin-bottom: 7px;
+    }
+    .happy p {
+        font-size: 14px;
+        margin-top: 9px;
+    }
+    .footer_content p {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+    .content a {
+        font-size: 11px;
+    }
+    .footer_part h2{
+        font-size: 25px;
+    }
+    .content_part p{
+        font-size: 10px;
+        margin-top: 0px;
+        margin-bottom: -6px;
+    }
+    .content_part span{
+        font-size: 10px;
+
+    }
+    .footer_section img {
+        margin-right: 10px;
+    }
+    .footer_section{
+        margin-top: 30px;
+    }
+    .newslatter h2{
+        font-size: 25px;
+    }
+    .newslatter_content {
+        margin: 23px 0 0px;
+    }
+    .newslatter_content p{
+        font-size: 12px;
+    }
+    .form form input[type="submit"] {
+        padding: 10px 12px;
+        font-size: 12px;
+    }
+    .follow {
+        margin-top: 30px;
+    }
+    .follow ul li {
+        height: 25px;
+        width: 25px;
+        margin-left: 5px;
+    }
+    .follow ul li a{
+        font-size: 16px;
+    }
+    .follow h2{
+        font-size: 15px;
+    }
+    .form form input::placeholder{
+        font-size: 12px;
+    }
+}
+
+@media(max-width:767px){
+    .zero{
+        text-align: center;
+        flex-direction: column-reverse;
+    }
+    .dantel{
+        
+    position: static;
+            
+    margin: auto;
+            
+    width: 52%;
+            
+    margin-top: 35px;
+    }
+    .banner_content {
+        padding: 0px 0 50px;
+    }
+    .banner_content p {
+        font-size: 16px;
+        margin: 12px 0 20px;
+    }
+    .banner_content h1 {
+        font-size: 27px;
+        margin-top: 7px;
+    }
+    .btn_learn{
+        padding: 8px 18px;
+    }
+    .btn_book{
+        padding: 8px 18px;
+    }
+    .docters {
+        padding: 40px 0 30px;
+    }
+    .doct{
+        display: none;
+    }
+    .wellcome{
+        text-align: center;
+    }
+    .wellcome p {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+    .wellcome h3{
+        font-size: 30px;
+    }
+    .footer_icon i {
+        margin-right: 15px;
+        font-size: 23px;
+        margin-top: 20px;
+        width: 24px;
+    }
+    .footer_part{
+        margin-top: 20px;
+    }
+    .footer_part h2{
+        font-size: 27px;
+    }
+    .newslatter{
+        margin-top: 29px;
+    }
+    .newslatter_content {
+        margin: 15px 0 0px;
+    }
+    .newslatter h2{
+        font-size: 27px;
+    }
+
+    .docters_content{
+        margin-bottom: 25px;
+    }
+    .docters_content h4{
+        font-size: 18px;
+    }
+    .docters_content p{
+        font-size: 14px;
+    }
+    .than h4{
+        font-size: 18px;
+    }
+    .teeth p{
+         font-size: 14px;
+         margin: 10px 0;
+    }
+    .our p{
+        margin-top: 12px;
+    }
+    .pricing_content h2 {
+        font-size: 35px;
+    }
+    .dolor span {
+        font-size: 45px;
+    }
+    .pricing_content p {
+        font-size: 16px;
+    }
+    .card {
+        margin: 31px 83px;
+    }
+    .service_content {
+        margin: 30px 0px 0px;
+    }
+    .person_list {
+        margin: 5px 15px;
+    }
+    .fizza p {
+        font-size: 16px;
+    }
+    .btn_sign {
+        margin-top: 30px;
+        font-size: 16px;
+        padding: 12px 30px;
+    }
+    .happy h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .content_part p {
+        font-size: 16px;
+        margin-top: -5px;
+        margin-bottom: 10px;
+    }
+    .content_part span {
+        font-size: 15px;
+    }
+    .newslatter_content p {
+        font-size: 15px;
+    }
+    .form form input[type="submit"] {
+        padding: 8px 25px;
+        font-size: 14px;
+    }
+    .follow h2 {
+        font-size: 30px;
+    }
+    .follow ul li {
+        height: 35px;
+        width: 35px;
+        margin-left: 15px;
+    }
+    .follow ul li a {
+        font-size: 24px;
+    }
+    .form form input::placeholder{
+        font-size: 14px;
+    }
+}
+@media(max-width:575px){
+    .banner_content h1 {
+        font-size: 27px;
+        margin-top: 7px;
+    }
+    .docters_content {
+        margin: 0 0 20px;
+        text-align: center;
+    }
+    .person_list {
+        margin: 10px 50px;
+    }
+    .meet {
+        margin: 0 0 30px;
+    }
+    .meet p{
+        margin-top: 10px;
+    }
+    .meet h2{
+        font-size: 30px;
+    }
+    .banner-carousel .owl-nav{
+        display: none;
+    }
+    .service_section {
+        padding: 35px 0;
+    }
+    .our h1{
+        font-size: 30px;
+    }
+    .service_content {
+        margin: 30px 70px 0px;
+    }
+    .pricing_section {
+        padding: 35px 0;
+    }
+    .card {
+        margin: 25px 70px;
+    }
+    .dolor span {
+        font-size: 40px;
+    }
+    .happy {
+        margin-top: 0;
+    }
+    .happy h1{
+        font-size: 30px;
+    }
+    .happy p{
+        font-size: 14px;
+    }
+    .footer_content p {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .content a {
+        font-size: 14px;
+    }
+    .footer_section {
+        margin-top: 20px;
+    }
+    .content_part p {
+        font-size: 16px;
+        margin-top: -5px;
+        margin-bottom: 10px;
+    }
+    .form {
+        margin-top: 15px;
+    }
+    .footer{
+        padding: 25px 0;
+    }
+    .footer ul li{
+        margin-left: 10px;
+    }
+    .footer_section img {
+        width: 17%;
+    }
+}
+@media(max-width:425px){
+    .core{
+        justify-content: space-between;
+    }
+    .dantel {
+        width: 58%;
+        margin-top: 21px;
+    }
+    .image-logo {
+        width: 45%;
+    }
+
+    .banner_content h2{
+        font-size: 20px;
+        padding: 5px 24px;
+    }
+    .banner_content h1 {
+        font-size: 27px;
+        margin-top: 7px;
+    }
+    .banner_content p {
+        font-size: 15px;
+    }
+    .banner_section{
+        min-height: 70vh;
+    }
+    .zero{
+        min-height: 70vh;
+    }
+    .wellcome h3 {
+        font-size: 24px;
+    }
+    .docters {
+        padding: 25px 0 0px;
+    }
+    .wellcome p{
+        font-size: 13px;
+    }
+    .docters_content h4{
+        font-size: 18px;
+    }
+    .docters_content p{
+        font-size: 14px;
+    }
+    .meet h2 {
+        font-size: 25px;
+    }
+    .meet p{
+        font-size: 14px;
+    }
+    .btn_learn {
+        padding: 8px 14px;
+        font-size: 13px;
+    }
+    .btn_book{
+        padding: 8px 14px;
+        font-size: 13px;
+    }
+    .our h1 {
+        font-size: 26px;
+    }
+    .our p{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .service_content {
+        margin: 20px 50px 0px;
+        padding: 18px;
+    }
+    .than h4 {
+        margin-left: 8px;
+        font-size: 18px;
+    }
+    .teeth p {
+        font-size: 14px;
+        margin: 10px 0;
+    }
+    .card {
+        margin: 15px 50px;
+    }
+    .pricing_content h2{
+        font-size: 22px;
+    }
+    .pricing_content p{
+        font-size: 14px;
+    }
+    .dolor span {
+        font-size: 30px;
+    }
+    .fizza p{
+        font-size: 14px;
+    }
+    .btn_sign{
+        font-size: 14px;
+        padding: 8px 20px;
+    }
+    .happy h1 {
+        font-size: 26px;
+    }
+    .content_part p {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .content_part span{
+        font-size: 12px;
+    }
+    .footer_section img {
+        width: 16%;
+        margin-right: 12px;
+    }
+    .newslatter_content p{
+        font-size: 14px;
+    }
+    .newslatter h2 {
+        font-size: 22px;
+    }
+    .newslatter h2 {
+        font-size: 22px;
+    }
+    .follow ul li {
+        height: 30px;
+        width: 30px;
+        margin-left: 10px;
+    }
+    .follow ul li a{
+        font-size: 20px;
+    }
+    .footer_section img {
+        width: 16%;
+    }
+}
+@media (max-width:320px){
+    .dantel {
+        width: 78%;
+        margin-top: 21px;
+    }
+    .banner_content h1 {
+        font-size: 22px;
+        margin-top: 6px;
+    }
+    .person_name h3 {
+        font-size: 18px;
+    }
+    .footer_section img {
+        width: 21%;
+        margin-right: 10px;
+    }
+    .follow h2 {
+        font-size: 20px;
+    }
+    .service_content {
+        margin: 20px 30px 0px;
+        padding: 15px;
+    }
+    .card {
+        margin: 15px 35px;
+    }
+}
+
+
+
